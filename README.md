@@ -1,6 +1,6 @@
 # Welcome to Chaosware
 
-Welcome to **Chaosware**, a series of absurd, ridiculous, and surprisingly fun little dev projects.  
+Welcome to the first repo, [is-it-a-bug-or-a-feature](https://github.com/cybersighzero/is-it-a-bug-or-a-feature) in the **Chaosware**, a series of absurd, ridiculous, and surprisingly fun little dev projects.  
 Each repo in this series is designed to make you go:
 
 > "Who TF makes this into a repo? …Anyway, it’s fun."
